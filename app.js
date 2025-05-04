@@ -14,8 +14,8 @@ require('dotenv').config();
 const app = express();
 
 const allowedOrigins = [
-  'https://crime-frontend-eight.vercel.app',
-  'http://localhost:3000',
+  'https://crime-frontend-nine.vercel.app/',
+  'http://localhost:5173',
 ];
 
 app.use(cors({
