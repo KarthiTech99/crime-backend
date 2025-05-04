@@ -13,7 +13,7 @@ const faqRoutes = require('./routes/FAQRoutes');
 const app = express();
 
 const allowedOrigins = [
-  'https://crime-frontend-nine.vercel.app',
+  'https://crime-frontend-three.vercel.app',
   'http://localhost:5173',
 ];
 
